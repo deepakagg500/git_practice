@@ -1,7 +1,3 @@
-First line
-Second Line
-
-Da_DEV_2 branch added, its becoming exciting.
-
+This is the master branch
 
 
